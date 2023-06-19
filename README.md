@@ -4,8 +4,8 @@ Este portafolio resume mi vida como profesional en la programación, donde se pu
 Este portafolio fue descargado del sitio web de BootstrapMade y fue modificado por mi persona.
 
 ## Autor
-BootstrapMade.com
-Yeferson Bravo
+* BootstrapMade.com
+* Yeferson Bravo
 
 **NOMBRE**
 
@@ -21,6 +21,6 @@ Este proyecto no necesita instalación, simplemente abre la carpeta o haz click 
 Si quieres contractarme puedes escribirme a bravoluquey@gmail.com
 
 ## Licencia
-https://bootstrapmade.com/license/.
-MIT Public License v3.0
-No puede usarse comercialmente.
+* https://bootstrapmade.com/license/
+* MIT Public License v3.0
+* No puede usarse comercialmente.
