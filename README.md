@@ -17,7 +17,7 @@ Este portafolio fue descargado del sitio web de BootstrapMade y fue modificado p
 * [Instagram] https://www.instagram.com/ohyefer
 * [LinkedIn] https://www.linkedin.com/in/ohyefer
 
-## Instalación
+## Instalación :wrench:
 Este proyecto no necesita instalación, simplemente abre la carpeta o haz click en el index.html
 
 ## Contratación :handshake:
