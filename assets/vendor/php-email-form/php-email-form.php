@@ -21,7 +21,7 @@ class PHP_Email_Form {
         'host' => 'smtp.gmail.com',
         'username' => 'bravoluquey@gmail.com',
         'password' => 'dxwctpfeehgswcpd',
-        'port' => '465'
+        'port' => '587'
     );
     public $ajax = false;
     public $send_charset = 'UTF-8';
