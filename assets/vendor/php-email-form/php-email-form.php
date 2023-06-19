@@ -7,7 +7,7 @@ require '../assets/vendor/php-email-form/PHPMailer/src/PHPMailer.php';
 require '../assets/vendor/php-email-form/PHPMailer/src/SMTP.php';
 require '../assets/vendor/php-email-form/PHPMailer/src/Exception.php';
 
-if(!isset($_SERVER['HTTP_REFERER'])){
+if(!isset($_SERVER['https://ohyefer.github.io/Portafolio-CV/'])){
     // Prevent direct access to this PHP file
     die();
 }
