@@ -40,7 +40,7 @@ class PHP_Email_Form {
         $mail->SMTPAuth = true;
         $mail->Username = $this->smtp['username'];
         $mail->Password = $this->smtp['password'];
-        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
+        $mail->SMTPSecure = 'ssl';
         $mail->Port = $this->smtp['port'];
         $mail->addAddress($this->to); 
         $mail->SetFrom($this->reply_to, $this->from_name);
