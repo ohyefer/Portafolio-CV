@@ -21,7 +21,7 @@ class PHP_Email_Form {
         'host' => 'smtp.gmail.com',
         'username' => 'bravoluquey@gmail.com',
         'password' => 'dxwctpfeehgswcpd',
-        'port' => '465'
+        'port' => '587'
     );
     public $ajax = false;
     public $send_charset = 'UTF-8';
@@ -40,7 +40,7 @@ class PHP_Email_Form {
         $mail->SMTPAuth = true;
         $mail->Username = $this->smtp['username'];
         $mail->Password = $this->smtp['password'];
-        $mail->SMTPSecure = 'ssl';
+        $mail->SMTPSecure = 'tls';
         $mail->Port = $this->smtp['port'];
         $mail->addAddress($this->to); 
         $mail->SetFrom($this->reply_to, $this->from_name);
