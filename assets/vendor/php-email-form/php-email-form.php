@@ -33,7 +33,7 @@ class PHP_Email_Form {
         $send_charset = $this->send_charset;
 
         require_once('../assets/vendor/php-email-form/PHPMailer/src/PHPMailer.php');
-        $mail = new PHPMailer();
+        $mail = new PHPMailer(true);
         $mail->CharSet = $send_charset;
         $mail->isSMTP();          
         $mail->Host = $this->smtp['host'];
