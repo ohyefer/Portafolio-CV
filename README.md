@@ -9,7 +9,7 @@ Yeferson Bravo
 
 **NOMBRE**
 
-* [Twitter] https://twitter.com/ohyefer"
+* [Twitter] https://twitter.com/ohyefer
 * [Facebook] https://www.facebook.com/yj.bl.14
 * [Instagram] https://www.instagram.com/ohyefer
 * [LinkedIn] https://www.linkedin.com/in/ohyefer
