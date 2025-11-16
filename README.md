@@ -8,7 +8,7 @@ Este portafolio fue descargado del sitio web de BootstrapMade y fue modificado p
 * Yeferson Bravo
 
 ## Ver Portafolio en vivo :link:
-* https://ohyefer.github.io/Portafolio-CV/
+* https://ohyefer.github.io/cv/
 
 **NOMBRE** :mailbox:
 
