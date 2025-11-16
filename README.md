@@ -1,4 +1,4 @@
-# Portafolio-CV :paperclip:
+# Portafolio :paperclip:
 ## Descripción :pencil2:
 Este portafolio resume mi vida como profesional en la programación, donde se puede apreciar las experiencias obtenidas en el ámbito laboral y en mis estudios como Ing. Informático. 
 Este portafolio fue descargado del sitio web de BootstrapMade y fue modificado por mi persona.
